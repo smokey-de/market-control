@@ -1,0 +1,3 @@
+export const GET_ROLE_START = "GET_ROLE_START";
+export const GET_ROLE_SUCCESS = "GET_ROLE_SUCCESS";
+export const GET_ROLE_ERROR = "GET_ROLE_ERROR";

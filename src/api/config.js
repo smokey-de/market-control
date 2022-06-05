@@ -1,0 +1,15 @@
+export const URL = 'localhost:8585/';
+export const auth_login = 'api/auth/login';
+export const profile_data = 'api/profile/data';
+export const market = 'api/market/list  ';
+export const marketPostApi = 'api/market';
+export const user = 'api/profile/list';
+// export const userDelete = 'api/profile/delete/';
+export const userActive = 'api/profile/active/';
+export const userPost = 'api/auth/create';
+export const role = 'api/profile/role';
+export const marketDelete = 'api/market/delete/';
+export const report = 'api/report/list/reports';
+export const reportPost = 'api/report';
+export const reportFilter = 'api/report/filter';
+export const category = 'api/category';

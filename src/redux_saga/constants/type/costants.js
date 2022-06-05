@@ -1,0 +1,3 @@
+export const GET_TYPE_START = "GET_TYPE_START";
+export const GET_TYPE_SUCCESS = "GET_TYPE_SUCCESS";
+export const GET_TYPE_ERROR = "GET_TYPE_ERROR";
